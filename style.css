@@ -1,0 +1,50 @@
+body{
+    background-color: gainsboro;
+}
+
+header {
+	background-color: rgb(25,44,75);
+
+}
+
+.logo img {
+	border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    
+}
+
+
+h1{
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+
+.icono {
+    width: 25px;
+    height: auto;
+    margin: 1px;
+    padding: 1px;
+}
+
+.proyectos{
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.proyectos a img{
+    width: 100%;
+    height: auto;
+}
+
+.proyectos a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
