@@ -2,6 +2,9 @@ body{
     background-color: gainsboro;
 }
 
+a{
+    text-decoration: none;
+}
 header {
 	background-color: rgb(25,44,75);
     padding: 10px;
